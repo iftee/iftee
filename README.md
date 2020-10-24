@@ -1,25 +1,27 @@
 ![Poster](img/poster.svg 'Poster')
 
-# Hi there, I'm Iftakhar Hasan, also known as Iftee. 👋
+# 👋 Hi there, I'm Iftakhar Hasan, also known as Iftee.
 
 I'm a full-stack web developer, front-end engineer, and UX designer.
-<!--
-**iftee/iftee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
-- 🔭 I’m currently working on the NodeJS portion of a MongoDB-ExpressJS-Flutter-NodeJS stack to provide API endpoints for my employer's wearable device's companion mobile app.
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-- ⚡ Fun fact: I'm a photographer too!
+🔭 I’m currently working on the NodeJS portion of a MongoDB-ExpressJS-Flutter-NodeJS stack to provide API endpoints for my employer's wearable device's companion mobile app.
 
-## Tools & Technology Stack
+## 📫 How To Reach Me
+<a href="https://www.linkedin.com/in/iftakharhasan" target="_blank"><img alt="LinkedIn" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0077B5&color=0077B5&label=&message=LinkedIn"></a>
+
+## 🗓️ My Latest Posts
+
+These are my latest posts on [Behance](https://www.behance.net/iftakhar).
+
+### Projects in Behance
+<!-- BEHANCE:START -->
+<!-- BEHANCE:END -->
+
+## ⚡ Fun Facts
+- 📷 I'm a photographer outside my design/development work. If you are interested, you can check out my work at [Flickr](https://www.flickr.com/photos/iftakharhasan).
+- ✈️ I like to travel (a lot) to different places. Unfortunately, this habit is on hold for now due to COVID-19 situation.
+
+## 🧰 Tools & Technology Stack
 
 ### Language
 <img alt="JavaScript" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=JavaScript&logoColor=111111&labelColor=F7DF1E&color=F7DF1E&label=&message=JavaScript"> <img alt="SCSS" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699&color=CC6699&label=&message=SCSS"> <img alt="CSS3" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6&label=&message=CSS"> <img alt="HTML5" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26&label=&message=HTML"> <img alt="PHP" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=PHP&logoColor=white&labelColor=777BB4&color=777BB4&label=&message=PHP">
@@ -56,8 +58,6 @@ Here are some ideas to get you started:
 
 ### Version Control System
 <img alt="Git" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=Git&logoColor=white&labelColor=F05032&color=F05032&label=&message=Git"> <img alt="GitHub" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=GitHub&logoColor=white&labelColor=181717&color=181717&label=&message=GitHub">
-
-## Social Media
 
 <!-- Definitions -->
 <!-- /Definitions -->
