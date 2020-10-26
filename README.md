@@ -15,11 +15,11 @@ These are my latest posts on [Behance](https://www.behance.net/iftakhar).
 
 ### Latest Projects in Behance
 <!-- BEHANCE:START -->
+- [KAH Ecommerce - WordPress [2018 build]](https://www.behance.net/gallery/106736931/KAH-Ecommerce-WordPress-2018-build)
 - [QuizKing App Landing Page [2020 build]](https://www.behance.net/gallery/106670093/QuizKing-App-Landing-Page-2020-build)
 - [Color Recommendation Engine [2020 build]](https://www.behance.net/gallery/105845107/Color-Recommendation-Engine-2020-build)
 - [Surfhouse Boutique Hotel - WordPress [2018 build]](https://www.behance.net/gallery/96052791/Surfhouse-Boutique-Hotel-WordPress-2018-build)
 - [Ruby Transit Solutions - WordPress [2018 build]](https://www.behance.net/gallery/96002637/Ruby-Transit-Solutions-WordPress-2018-build)
-- [Cocktail Recipes - React [2020 build]](https://www.behance.net/gallery/95694617/Cocktail-Recipes-React-2020-build)
 <!-- BEHANCE:END -->
 
 ## ⚡ Fun Facts
