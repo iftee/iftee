@@ -4,7 +4,7 @@
 
 I'm a full-stack web developer, front-end engineer, and UX designer.
 
-🔭 I’m currently working on the NodeJS portion of a MongoDB-ExpressJS-Flutter-NodeJS stack to provide API endpoints for my employer's wearable device's companion mobile app.
+🔭 I’m currently working on the ReactJS part on a MongoDB-ExpressJS-ReactJS-NodeJS web app that works as a secondary gateway to my employer's wearable device's companion mobile app. The mobile version of the app is on MongoDB-ExpressJS-Flutter-NodeJS stack where I sometimes work in the NodeJS/ExpressJS part.
 
 ## 📫 How To Reach Me
 <a href="https://www.linkedin.com/in/iftakharhasan" target="_blank"><img alt="LinkedIn" height="30" src="https://img.shields.io/static/v1?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0077B5&color=0077B5&label=&message=LinkedIn"></a>
